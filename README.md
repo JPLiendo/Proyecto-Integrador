@@ -49,5 +49,32 @@ Producto (Product Owner) y el Equipo de
 Desarrollo a medida que se va 
 aprendiendo más.
 
+Decimo Segundo concepto.
+PILARES - Adaptacion
+Adaptación
+Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
+resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
+realizarse cuanto antes para minimizar desviaciones mayores. 
+
+Decimo Tercer concepto.
+Daily Srcrum (Scrum Diario)
+El Daily Scrum (o Scrum diario) es uno de los 5 eventos de Scrum con un bloque de tiempo de 15 minutos para que los Developers se sincronicen.
+Esta reunión diaria se realiza a la misma hora y en el mismo lugar para reducir la complejidad. Aquí se busca la transparencia y la inspección de lo realizado para 
+tener una oprtunidad de adaptacion al dia siguiente.
+Una técnica popular es que cada persona de los Developers conteste las siguientes 3 preguntas en 2 a 3 minutos por integrante, a modo de agenda para optimizar la
+eficiencia del tiempo.
+
+1 - ¿Qué hice ayer para ayudar a lograr el Sprint Goal (Objetivo del Sprint)?
+2 - ¿Qué voy a hacer hoy para ayudar a lograr el Sprint Goal?
+3 - ¿Veo algún impedimento que evite que el resto de Developers o yo logremos el Sprint Goal?
+
+Entre los beneficios del Daily Scrum se encuentran:
+
+- Optimizacion
+- Reduce el tiempo perdido
+- Mejora la coordinacion
+- Promueve el intercambio de conocimientos
+- Fortalece la cultura
+- Aumenta la productividad
 
 
