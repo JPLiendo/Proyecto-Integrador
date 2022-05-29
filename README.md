@@ -75,6 +75,20 @@ Entre los beneficios del Daily Scrum se encuentran:
 - Mejora la coordinacion
 - Promueve el intercambio de conocimientos
 - Fortalece la cultura
-- Aumenta la productividad
+- Aumenta la productividad.
+
+Decimo cuarto concepto.
+Sprint review
+Durante el Sprint review se llevaran a cabo las siguientes tareas:
+-El equipo presenta la funcionalidad terminada al Product Owner y demás stakeholders. 
+-Los miembros del equipo responden preguntas de los stakeholders en relación a la demostración, y toman nota de los cambios propuestos. 
+-Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y prioridad de esos cambios.
+
+Decimo quinto concepto.
+Sprint Restrospective:
+Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
+-Provee una visión de qué está funcionando y qué no está funcionando.
+-Se realiza al finalizar el sprint. 
+-Participa todo el equipo.
 
 
