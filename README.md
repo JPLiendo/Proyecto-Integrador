@@ -13,14 +13,15 @@ Scrum (n): Es un marco de trabajo a través
 del cual las personas pueden abordar
 problemas complejos adaptativos, a la vez
 que se entregan productos de forma
-eficiente y creativa con el minimo valor.
+eficiente y creativa con el mínimo valor.
 
 Características de Scrum
 
 ● Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo. 
 ● Utiliza procesos interactivos/incrementales. 
 ● Orientado a resultados y compromisos. 
-● No está restringido a proyectos de software solamente. ●Su visión es opuesta a la propuesta por la metodología en cascada.
+● No está restringido a proyectos de software solamente. 
+●Su visión es opuesta a la propuesta por la metodología en cascada.
 
 Tercer concepto.
 El concepto de ¨Comunicación¨  que propone el Manifiesto Agile es:
@@ -36,7 +37,7 @@ operativo o producto parcialmente entregable. El mismo se repite n veces a
 lo largo del proyecto y permite hacer entregas de producto en partes, donde 
 cada entrega, es un incremento de funcionalidad respecto al anterior. Esto 
 difiere del conocido ciclo de vida en cascada muy utilizado en el campo de 
-desarrollo de software en que, las fases del ciclo de vida (requisitos, análisis, 
+desarrollo de software en que las fases del ciclo de vida (requisitos, análisis, 
 diseño, codificación, testing, etc.) se realizan una única vez y, el inicio de 
 cada fase no comienza hasta que termina la que precede.
 Durante el Sprint: 
@@ -50,7 +51,7 @@ Desarrollo a medida que se va
 aprendiendo más.
 
 Decimo Segundo concepto.
-PILARES - Adaptacion
+PILARES - Adaptación
 Adaptación
 Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
 resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
@@ -97,5 +98,10 @@ Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
 - Se realiza al finalizar el sprint. 
 
 - Participa todo el equipo.
+
+Decimosexto concepto: ROLES
+Product Owner (Dueño del producto): Representa al cliente. Su principal responsabilidad es expresar claramente la necesidad del cliente dentro del Product Backlog. Define y prioriza temas y objetivos, con criterios de aceptación. Se ocupa del QUÉ.
+Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisciplinario. Son personas altamente capacitadas para dar soluciones y su responsabilidad es cumplir el sprint. El trabajo es autogestionado. Se ocupa del CÓMO.
+Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
 
 
