@@ -100,8 +100,11 @@ Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
 - Participa todo el equipo.
 
 Decimosexto concepto: ROLES
+
 Product Owner (Dueño del producto): Representa al cliente. Su principal responsabilidad es expresar claramente la necesidad del cliente dentro del Product Backlog. Define y prioriza temas y objetivos, con criterios de aceptación. Se ocupa del QUÉ.
+
 Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisciplinario. Son personas altamente capacitadas para dar soluciones y su responsabilidad es cumplir el sprint. El trabajo es autogestionado. Se ocupa del CÓMO.
+
 Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
 
 
