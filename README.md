@@ -1,5 +1,5 @@
-# Proyecto-Integrador
-Repositorio Proyecto integrador Primer Cuatrimestre
+# **Proyecto Integrador**
+**_Repositorio Proyecto Integrador Primer Cuatrimestre_**
 
 Primer Concepto
 Scrum (n): Es un marco de trabajo a través
@@ -15,12 +15,16 @@ problemas complejos adaptativos, a la vez
 que se entregan productos de forma
 eficiente y creativa con el mínimo valor.
 
-Características de Scrum
+**Características de Scrum**
 
-● Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo. 
+● Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo.
+
 ● Utiliza procesos interactivos/incrementales. 
+
 ● Orientado a resultados y compromisos. 
+
 ● No está restringido a proyectos de software solamente. 
+
 ●Su visión es opuesta a la propuesta por la metodología en cascada.
 
 Tercer concepto.
@@ -40,17 +44,16 @@ difiere del conocido ciclo de vida en cascada muy utilizado en el campo de
 desarrollo de software en que las fases del ciclo de vida (requisitos, análisis, 
 diseño, codificación, testing, etc.) se realizan una única vez y, el inicio de 
 cada fase no comienza hasta que termina la que precede.
-Durante el Sprint: 
+
+Durante el Sprint:
 • No se realizan cambios que puedan 
 afectar al objetivo del Sprint (Sprint Goal); 
-• Los objetivos de calidad no disminuyen; 
-• El alcance puede clarificarse y 
-renegociarse entre el Propietario del 
-Producto (Product Owner) y el Equipo de 
-Desarrollo a medida que se va 
-aprendiendo más.
 
-Quinto concepto: ROLES
+• Los objetivos de calidad no disminuyen; 
+
+• El alcance puede clarificarse y renegociarse entre el Propietario del Producto (Product Owner) y el Equipo de Desarrollo a medida que se va aprendiendo más.
+
+Quinto concepto: **ROLES**
 
 Product Owner (Dueño del producto): Representa al cliente. Su principal responsabilidad es expresar claramente la necesidad del cliente dentro del Product Backlog. Define y prioriza temas y objetivos, con criterios de aceptación. Se ocupa del QUÉ.
 
@@ -58,26 +61,31 @@ Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisc
 
 Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
 
-Sexto concepto: CEREMONIAS
+Sexto concepto: **CEREMONIAS**
 
 Según el manifiesto ágil, la forma más eficiente y efectiva de comunicar información de ida y vuelta dentro de un equipo de desarrollo es mediante la comunicación cara a cara. Estas reuniones o encuentros se denominan "Ceremonias".
 
 A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivos y miembros del equipo involucrados:
 
 ● Sprint Planning Meeting
+
 ● Daily Scrum Meeting
+
 ● Sprint Review Meeting
+
 ● Sprint Retrospective Meeting
 
 Décimo Segundo concepto.
-PILARES - Adaptación
+**PILARES - Adaptación**
+
 Adaptación
 Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
 resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
 realizarse cuanto antes para minimizar desviaciones mayores. 
 
 Décimo Tercer concepto.
-Daily Scrum (Scrum Diario)
+**Daily Scrum (Scrum Diario)**
+
 El Daily Scrum (o Scrum diario) es uno de los 5 eventos de Scrum con un bloque de tiempo de 15 minutos para que los Developers se sincronicen.
 Esta reunión diaria se realiza a la misma hora y en el mismo lugar para reducir la complejidad. Aquí se busca la transparencia y la inspección de lo realizado para 
 tener una oprtunidad de adaptacion al dia siguiente.
@@ -90,15 +98,16 @@ eficiencia del tiempo.
 
 Entre los beneficios del Daily Scrum se encuentran:
 
-- Optimizacion
-- Reduce el tiempo perdido
-- Mejora la coordinacion
-- Promueve el intercambio de conocimientos
-- Fortalece la cultura
+- Optimización.
+- Reduce el tiempo perdido.
+- Mejora la coordinación.
+- Promueve el intercambio de conocimientos.
+- Fortalece la cultura.
 - Aumenta la productividad.
 
 Décimo cuarto concepto.
-Sprint review
+**Sprint review**
+
 Durante el Sprint review se llevaran a cabo las siguientes tareas:
 
 - El equipo presenta la funcionalidad terminada al Product Owner y demás stakeholders. 
@@ -108,7 +117,7 @@ Durante el Sprint review se llevaran a cabo las siguientes tareas:
 - Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y prioridad de esos cambios.
 
 Décimo quinto concepto.
-Sprint Restrospective:
+**Sprint Restrospective:**
 
 Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
 
