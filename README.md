@@ -50,14 +50,23 @@ Producto (Product Owner) y el Equipo de
 Desarrollo a medida que se va 
 aprendiendo más.
 
-Decimo Segundo concepto.
+Quinto concepto: ROLES
+
+Product Owner (Dueño del producto): Representa al cliente. Su principal responsabilidad es expresar claramente la necesidad del cliente dentro del Product Backlog. Define y prioriza temas y objetivos, con criterios de aceptación. Se ocupa del QUÉ.
+
+Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisciplinario. Son personas altamente capacitadas para dar soluciones y su responsabilidad es cumplir el sprint. El trabajo es autogestionado. Se ocupa del CÓMO.
+
+Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
+
+
+Décimo Segundo concepto.
 PILARES - Adaptación
 Adaptación
 Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
 resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
 realizarse cuanto antes para minimizar desviaciones mayores. 
 
-Decimo Tercer concepto.
+Décimo Tercer concepto.
 Daily Srcrum (Scrum Diario)
 El Daily Scrum (o Scrum diario) es uno de los 5 eventos de Scrum con un bloque de tiempo de 15 minutos para que los Developers se sincronicen.
 Esta reunión diaria se realiza a la misma hora y en el mismo lugar para reducir la complejidad. Aquí se busca la transparencia y la inspección de lo realizado para 
@@ -78,7 +87,7 @@ Entre los beneficios del Daily Scrum se encuentran:
 - Fortalece la cultura
 - Aumenta la productividad.
 
-Decimo cuarto concepto.
+Décimo cuarto concepto.
 Sprint review
 Durante el Sprint review se llevaran a cabo las siguientes tareas:
 
@@ -88,7 +97,7 @@ Durante el Sprint review se llevaran a cabo las siguientes tareas:
 
 - Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y prioridad de esos cambios.
 
-Decimo quinto concepto.
+Décimo quinto concepto.
 Sprint Restrospective:
 
 Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
@@ -99,12 +108,5 @@ Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
 
 - Participa todo el equipo.
 
-Decimosexto concepto: ROLES
-
-Product Owner (Dueño del producto): Representa al cliente. Su principal responsabilidad es expresar claramente la necesidad del cliente dentro del Product Backlog. Define y prioriza temas y objetivos, con criterios de aceptación. Se ocupa del QUÉ.
-
-Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisciplinario. Son personas altamente capacitadas para dar soluciones y su responsabilidad es cumplir el sprint. El trabajo es autogestionado. Se ocupa del CÓMO.
-
-Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
 
 
