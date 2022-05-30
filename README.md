@@ -58,6 +58,16 @@ Scrum Team o Development Team: Equipo de desarrolladores, generalmente multidisc
 
 Scrum Master: Es un moderador, un facilitador cuya responsabilidad es asegurar que el equipo comprenda las reglas del Scrum y trabaje de acuerdo con ellas. 
 
+Sexto concepto: CEREMONIAS
+
+Según el manifiesto ágil, la forma más eficiente y efectiva de comunicar información de ida y vuelta dentro de un equipo de desarrollo es mediante la comunicación cara a cara. Estas reuniones o encuentros se denominan "Ceremonias".
+
+A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivos y miembros del equipo involucrados:
+
+● Sprint Planning Meeting
+● Daily Scrum Meeting
+● Sprint Review Meeting
+● Sprint Retrospective Meeting
 
 Décimo Segundo concepto.
 PILARES - Adaptación
@@ -67,7 +77,7 @@ resultante será inaceptable, el proceso o el material que está siendo procesad
 realizarse cuanto antes para minimizar desviaciones mayores. 
 
 Décimo Tercer concepto.
-Daily Srcrum (Scrum Diario)
+Daily Scrum (Scrum Diario)
 El Daily Scrum (o Scrum diario) es uno de los 5 eventos de Scrum con un bloque de tiempo de 15 minutos para que los Developers se sincronicen.
 Esta reunión diaria se realiza a la misma hora y en el mismo lugar para reducir la complejidad. Aquí se busca la transparencia y la inspección de lo realizado para 
 tener una oprtunidad de adaptacion al dia siguiente.
