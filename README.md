@@ -149,7 +149,7 @@ Un Product Backlog contiene distintos elementos:
 
 Otros artefactos
 
--Definition of Done (DoD): La DoD es un documento que define qué se considera hecho en un equipo Scrum.
+- Definition of Done (DoD): La DoD es un documento que define qué se considera hecho en un equipo Scrum.
 
 - Definition of Ready (DoR): El DoR es un documento que define cuándo un requerimiento (historia de usuario o similar) se considera listo para que el equipo de desarrollo pueda entenderlo, valorarlo e incluirlo en un Sprint Planning con idea de acometerlo en un Sprint.
 
