@@ -127,5 +127,30 @@ Por otro lado, durante el Sprint restrospective se realiza lo siguiente:
 
 - Participa todo el equipo.
 
+ Concepto **ARTEFACTOS**
 
+Los artefactos del Scrum, contienen la información más importante para el equipo Scrum, tanto para ellos, como para todas las partes interesadas
 
+3 artefactos principales del Scrum:
+
+- Product Backlog o lista de producto: Listado dinámico de elementos obligatorios, entre los que se incluyen las características del producto, las mejoras del producto y los arreglos necesarios, se actualiza a menudo para reflejar las últimas necesidades del mercado, o el feedback del cliente. Lo controla el Product Owner.
+
+Un Product Backlog contiene distintos elementos:
+
+    *Funcionalidades
+    *Bugs
+    *Historias de usuario
+    *Tareas técnicas
+    *Trabajo de investigación
+
+- Sprint Backlog o Lista de Objetivos Pendientes del Sprint:  Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master.
+
+- Incremento: Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+
+Otros artefactos
+
+-Definition of Done (DoD): La DoD es un documento que define qué se considera hecho en un equipo Scrum.
+
+- Definition of Ready (DoR): El DoR es un documento que define cuándo un requerimiento (historia de usuario o similar) se considera listo para que el equipo de desarrollo pueda entenderlo, valorarlo e incluirlo en un Sprint Planning con idea de acometerlo en un Sprint.
+
+- Burndown Chart: El Burndown Chart es un gráfico de trabajo pendiente a lo largo del tiempo que muestra la velocidad a la que se están completando los objetivos, requisitos, o historias de usuarios.
