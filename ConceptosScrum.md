@@ -21,7 +21,8 @@ eficiente y creativa con el máximo valor.
 
 ●Su visión es opuesta a la propuesta por la metodología en cascada.
 
-Tercer concepto.
+Tercer concepto. 
+
 El concepto de ¨Comunicación¨  que propone el Manifiesto Agile es:
 
 “La forma más eficiente y efectiva de comunicar 
