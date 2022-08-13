@@ -32,7 +32,7 @@ create table historial(
 	constraint fk_id_p foreign key (perro) references perro (ID_perro)
 );
 
-# 2 - nserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
+# 2 - inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
 
 insert into dueno (DNI, nombre, apellido, telefono, direccion) values (28957346, "Juan",  "Perez", 4789689, "Belgrano 101");
 insert into perro (nombre, fecha_nac, sexo, DNI_dueno) values ("Puppy", "2012/12/12", "Macho", 28957346);
