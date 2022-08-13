@@ -10,6 +10,9 @@ create table dueno(
     direccion varchar (45) not null,
     constraint pk_dni primary key (DNI)
     );
+
+# 1 - Realice la consulta correspondiente para crear la tabla Perro, teniendo en cuenta sus claves foráneas y primarias.
+
 create table perro(
 	ID_perro int not null auto_increment unique,
 	nombre varchar (45) not null,
@@ -29,13 +32,16 @@ create table historial(
 	constraint fk_id_p foreign key (perro) references perro (ID_perro)
 );
 
-#nserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
+# 2 - nserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
 
 insert into dueno (DNI, nombre, apellido, telefono, direccion) values (28957346, "Juan",  "Perez", 4789689, "Belgrano 101");
 insert into perro (nombre, fecha_nac, sexo, DNI_dueno) values ("Puppy", "2012/12/12", "Macho", 28957346);
 
-#Actualice la fecha de nacimiento de algún animal (perro) que usted considere.
+# 4 - Actualice la fecha de nacimiento de algún animal (perro) que usted considere.
+
 update perro set fecha_nac = "2015/02/10" where DNI_dueno = 28957346;
+
+# muestro resultados
 
 show columns from dueno;
 show columns from perro;
@@ -44,6 +50,8 @@ show columns from historial;
 select * from dueno;
 select * from perro;
 
-#correjir fecha
+
+
+
 
 
