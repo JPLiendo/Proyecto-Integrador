@@ -1,0 +1,52 @@
+CREATE SCHEMA IF NOT EXISTS `pelucanina` DEFAULT CHARACTER SET utf8 ;
+USE `pelucanina` ;
+
+CREATE TABLE IF NOT EXISTS `pelucanina`.`Dueno` (
+  `DNI` INT(9) NOT NULL,
+  `Nombre` VARCHAR(45) NOT NULL,
+ `Apellido` VARCHAR(45) NOT NULL,
+ `Telefono` VARCHAR(45) NOT NULL,
+ `Direccion` VARCHAR(45) NOT NULL,
+PRIMARY KEY (`DNI`))
+ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS `pelucanina`.`Perro` (
+  `ID_Perro` INT NOT NULL  AUTO_INCREMENT,
+  `Nombre` VARCHAR(45) NOT NULL,
+   `Fecha_Nac` DATE NOT NULL,
+   `Sexo` VARCHAR(1) NOT NULL,
+    PRIMARY KEY (`ID_Perro`),
+  INDEX `fk_DNI_idx` (`Dueno` ASC) VISIBLE,
+  CONSTRAINT `fk_DNI`
+    FOREIGN KEY (`DNI`)
+    REFERENCES `pelucanina`.`Dueno` (`DNI`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+CREATE TABLE IF NOT EXISTS `pelucanina`.`Historial` (
+  `ID_Historial` INT  NOT NULL  AUTO_INCREMENT,
+  `Fecha` DATE DEFAULT SYSDATE NOT NULL,
+  `ID_Perro` INT NOT NULL,
+   `Descripcion`, VARCHAR(60) NOT NULL,
+   `MONTO`, NUMBER(10,2) NOT NULL,
+PRIMARY KEY (`ID_Historial`),
+ INDEX `fk_ID_Perro_idx` (`Perro` ASC) VISIBLE,
+  CONSTRAINT `fk_ID_Perro`
+    FOREIGN KEY (`ID_Perro`)
+    REFERENCES `pelucanina`.`Perro` (`ID_Perro`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+INSERT INTO   `Dueno` VALUES (`28183532`, `Paula`, `Leyes`, `154121212`,`Rivadavia 213`);
+
+INSERT INTO `Perro` VALUES (`Boby`,`2020-03-10`, `M`, `28183532`);
+
+--punto 10 agrego registros para poder borrarlos
+INSERT INTO `Historial` VALUES (`13-04-2022`,`1`,`Lavado y corte simple`,`5000`);
+
+INSERT INTO `Historial` VALUES(`15-07-2022`,`1`,`Lavado`,`2000`);
+
+TRUNCATE TABLE `Historial`;
+ALTER TABLE  `Historial` AUTO_INCREMENT=1;
